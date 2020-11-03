@@ -1,0 +1,7 @@
+/home/leiyun/gitspace/thrift/src/main/java/org/wavemelody/thrift/demo/TNonblockingHelloServiceClient.java
+/home/leiyun/gitspace/thrift/src/main/java/org/wavemelody/thrift/demo/HelloWorldService.java
+/home/leiyun/gitspace/thrift/src/main/java/org/wavemelody/thrift/demo/HelloWorldServiceImpl.java
+/home/leiyun/gitspace/thrift/src/main/java/org/wavemelody/thrift/demo/TNonblockingHelloServiceServer.java
+/home/leiyun/gitspace/thrift/src/main/java/org/wavemelody/thrift/demo/HelloServiceServer.java
+/home/leiyun/gitspace/thrift/src/main/java/org/wavemelody/thrift/demo/HelloServiceClient.java
+/home/leiyun/gitspace/thrift/src/main/java/org/wavemelody/thrift/demo/ThreadPoolHelloServiceServer.java
